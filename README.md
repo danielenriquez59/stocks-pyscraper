@@ -10,7 +10,7 @@ This is a simple webscraping tool for WL
  4. pandas (pip install) (or with anaconda)
  5. chromedriver.exe (chromedriver.exe - can be installed from https://chromedriver.storage.googleapis.com/index.html?path=85.0.4183.87/)
  
- Author: Daniel Enriquez
+ Author: Twolf Trader
  Release History: 
  00 - 08/2020
 """
